@@ -357,26 +357,30 @@
   </div>
 
   <div class="menu-group active" id="breakfast">
-    <div class="menu-row"><div><div class="name">Pancake</div><div class="desc">Served warm with syrup</div></div><div class="price">$4.00</div></div>
-    <div class="menu-row"><div><div class="name">Pancakes (2)</div><div class="desc">Served warm with syrup</div></div><div class="price">$7.00</div></div>
-    <div class="menu-row"><div><div class="name">Bread Roll</div><div class="desc">Fresh baked, served warm</div></div><div class="price">$2.00</div></div>
-    <div class="menu-row"><div><div class="name">Bread Rolls (4)</div><div class="desc">Fresh baked, served warm</div></div><div class="price">$3.00</div></div>
-    <div class="menu-row"><div><div class="name">Chocolate Donut</div><div class="desc">Fresh daily</div></div><div class="price">$2.00</div></div>
-    <div class="menu-row"><div><div class="name">Chocolate Donuts (6)</div><div class="desc">Fresh daily</div></div><div class="price">$12.00</div></div>
-    <div class="menu-row"><div><div class="name">Vanilla Donut</div><div class="desc">Fresh daily</div></div><div class="price">$2.00</div></div>
-    <div class="menu-row"><div><div class="name">Vanilla Donuts (6)</div><div class="desc">Fresh daily</div></div><div class="price">$12.00</div></div>
+    <div class="menu-row"><div><div class="name">Pancake</div><div class="desc">Served warm with syrup</div></div><div class="price">$4.28</div></div>
+    <div class="menu-row"><div><div class="name">Pancakes (2)</div><div class="desc">Served warm with syrup</div></div><div class="price">$7.49</div></div>
+    <div class="menu-row"><div><div class="name">Bread Roll</div><div class="desc">Fresh baked, served warm</div></div><div class="price">$2.14</div></div>
+    <div class="menu-row"><div><div class="name">Bread Rolls (4)</div><div class="desc">Fresh baked, served warm</div></div><div class="price">$3.21</div></div>
+    <div class="menu-row"><div><div class="name">Chocolate Donut</div><div class="desc">Fresh daily</div></div><div class="price">$2.14</div></div>
+    <div class="menu-row"><div><div class="name">Chocolate Donuts (6)</div><div class="desc">Fresh daily</div></div><div class="price">$12.84</div></div>
+    <div class="menu-row"><div><div class="name">Vanilla Donut</div><div class="desc">Fresh daily</div></div><div class="price">$2.14</div></div>
+    <div class="menu-row"><div><div class="name">Vanilla Donuts (6)</div><div class="desc">Fresh daily</div></div><div class="price">$12.84</div></div>
   </div>
 
   <div class="menu-group" id="lunch">
-    <div class="menu-row"><div><div class="name">Dad's Legendary Pepperoni Roll</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$4.00</div></div>
-    <div class="menu-row"><div><div class="name">Dad's Legendary Pepperoni Rolls (2)</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$4.00</div></div>
-    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza — Cheese</div><div class="desc">Individual 5-inch thick-crust</div></div><div class="price">$6.00</div></div>
-    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza — Pepperoni</div><div class="desc">Individual 5-inch thick-crust</div></div><div class="price">$7.00</div></div>
-    <div class="menu-row"><div><div class="name">Assorted Chips</div><div class="desc">Single-serve bags</div></div><div class="price">$1.50</div></div>
+    <div class="menu-row"><div><div class="name">Dad's Legendary Pepperoni Roll</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$2.14</div></div>
+    <div class="menu-row"><div><div class="name">Dad's Legendary Pepperoni Rolls (2)</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$4.28</div></div>
+    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza — Cheese</div><div class="desc">Individual 5-inch thick-crust</div></div><div class="price">$6.42</div></div>
+    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza — Pepperoni</div><div class="desc">Individual 5-inch thick-crust</div></div><div class="price">$7.49</div></div>
+    <div class="menu-row"><div><div class="name">Assorted Chips</div><div class="desc">Single-serve bags</div></div><div class="price">$1.61</div></div>
   </div>
 
   <div class="menu-group" id="drinks">
-    <div class="menu-row"><div><div class="name">Bottled Water</div><div class="desc">Chilled</div></div><div class="price">$2.00</div></div>
+    <div class="menu-row"><div><div class="name">Bottled Water</div><div class="desc">Chilled</div></div><div class="price">$2.14</div></div>
+  </div>
+
+  <div style="max-width:640px; margin:2.4rem auto 0; background:var(--cream); border:1px dashed var(--sage-dark); border-radius:14px; padding:1.1rem 1.4rem; font-size:0.85rem; color:var(--ink); opacity:0.85; line-height:1.6; text-align:center;">
+    Menu prices already include local sales tax — the odd cents cover that, not us. We're a 100% card-only, cash-free lounge.
   </div>
 </section>
 
@@ -436,15 +440,16 @@
   <div class="about-grid">
     <div class="about-story">
       <p>The Cozy Crust Cat Lounge started with a simple idea: a restaurant that's genuinely good on its own, in a building that happens to be home to six cats.</p>
-      <p>The dining room sits right up front — cozy tables, an open counter where you order, no cat hair in sight. Food comes from a fully separate back kitchen, walled off behind the counter.</p>
+      <p>The dining room sits right up front — cozy tables, an open counter where you order, no cat hair in sight. Seating is kept small on purpose: two four-person tables and two two-person tables, twelve seats total, for a calm, low-stress room. Food comes from a fully separate back kitchen, walled off behind the counter.</p>
       <p>The cats live next door, in their own room with its own door. Grab your food, then head over and step into cat paradise whenever you're ready. Two rooms, two purposes, no crossover.</p>
       <p>They're residents, not rescues waiting on adoption. This is simply where they live, and you're welcome to visit.</p>
     </div>
     <div class="hours-card">
       <h3>Hours</h3>
-      <div class="hours-row"><span>Mon, Wed, Fri</span><span>11:00am – 5:00pm</span></div>
+      <div class="hours-row"><span>Mon, Wed, Fri</span><span>9:00am – 3:00pm</span></div>
+      <div class="hours-row"><span>(Staff lunch break)</span><span>12:30 – 1:00pm</span></div>
       <div class="hours-row"><span>Tue, Thu, Sat, Sun</span><span>Closed to the public</span></div>
-      <p style="font-size:0.85rem; opacity:0.75; margin:0.9rem 0 0;">Cash only, please.</p>
+      <p style="font-size:0.85rem; opacity:0.75; margin:0.9rem 0 0;">Cards and mobile tap only — we're a cash-free lounge.</p>
       <div class="addr">
         <p class="eyebrow">Find us</p>
         417 Holland Ave, Suite 2<br>
@@ -461,12 +466,12 @@
     <h2 class="underline">Cat lounge time passes
       <svg viewBox="0 0 200 10" preserveAspectRatio="none"><path d="M2 8 C50 2, 150 2, 198 8" stroke="#e4a94a" stroke-width="4" fill="none" stroke-linecap="round"/></svg>
     </h2>
-    <p>Pick how long you'd like to spend in the cat lounge. Open Mondays, Wednesdays, and Fridays only.</p>
+    <p>Pick how long you'd like to spend in the cat lounge. Open Mondays, Wednesdays, and Fridays, 9am–3pm (staff lunch break 12:30–1pm).</p>
   </div>
   <div style="max-width:420px; margin:0 auto 2.4rem; display:flex; flex-direction:column; gap:0.6rem;">
-    <div class="menu-row"><div><div class="name">30-Minute Scurry Pass</div></div><div class="price">$6.00</div></div>
-    <div class="menu-row"><div><div class="name">60-Minute Snuggle Pass</div></div><div class="price">$10.00</div></div>
-    <div class="menu-row"><div><div class="name">90-Minute Sanctuary Pass</div></div><div class="price">$14.00</div></div>
+    <div class="menu-row"><div><div class="name">30-Minute Scurry Pass</div></div><div class="price">$6.42</div></div>
+    <div class="menu-row"><div><div class="name">60-Minute Snuggle Pass</div></div><div class="price">$10.70</div></div>
+    <div class="menu-row"><div><div class="name">90-Minute Sanctuary Pass</div></div><div class="price">$14.98</div></div>
   </div>
   <form id="reserve-form" style="max-width:420px; margin:0 auto; display:flex; flex-direction:column; gap:1rem;">
     <label style="font-weight:700; font-size:0.9rem;">Date
@@ -475,27 +480,26 @@
     <label style="font-weight:700; font-size:0.9rem;">Arrival time
       <select id="reserve-time" name="Arrival Time" required style="width:100%; padding:0.7rem; margin-top:0.4rem; border-radius:8px; border:1.5px solid var(--plum); font-family:'Nunito Sans', sans-serif; font-size:1rem;">
         <option value="">Select a time</option>
+        <option>9:00 AM</option>
+        <option>10:00 AM</option>
         <option>11:00 AM</option>
-        <option>12:00 PM</option>
         <option>1:00 PM</option>
         <option>2:00 PM</option>
-        <option>3:00 PM</option>
-        <option>4:00 PM</option>
       </select>
     </label>
     <label style="font-weight:700; font-size:0.9rem;">Pass length
       <select id="reserve-pass" name="Pass" required style="width:100%; padding:0.7rem; margin-top:0.4rem; border-radius:8px; border:1.5px solid var(--plum); font-family:'Nunito Sans', sans-serif; font-size:1rem;">
         <option value="">Select a pass</option>
-        <option>30-Minute Scurry Pass — $6.00</option>
-        <option>60-Minute Snuggle Pass — $10.00</option>
-        <option>90-Minute Sanctuary Pass — $14.00</option>
+        <option>30-Minute Scurry Pass — $6.42</option>
+        <option>60-Minute Snuggle Pass — $10.70</option>
+        <option>90-Minute Sanctuary Pass — $14.98</option>
       </select>
     </label>
     <label style="font-weight:700; font-size:0.9rem;">Your name
       <input type="text" id="reserve-name" name="Name" required style="width:100%; padding:0.7rem; margin-top:0.4rem; border-radius:8px; border:1.5px solid var(--plum); font-family:'Nunito Sans', sans-serif; font-size:1rem;">
     </label>
     <button type="submit" class="btn btn-solid" style="justify-content:center;">Request lounge time</button>
-    <p style="text-align:center; font-size:0.85rem; opacity:0.75; margin:0;">Cash only, paid in person when you arrive — no online payment.</p>
+    <p style="text-align:center; font-size:0.85rem; opacity:0.75; margin:0;">Cards and mobile tap only when you arrive — we're a cash-free lounge.</p>
   </form>
 </section>
 
@@ -536,7 +540,7 @@
     })
     .then(res => res.json())
     .then(() => {
-      alert('Thanks! Your request has been sent — remember, it\'s cash only when you arrive. See you soon!');
+      alert('Thanks! Your request has been sent — remember, we\'re cards/tap only. See you soon!');
       form.reset();
     })
     .catch(() => {
