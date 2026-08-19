@@ -357,14 +357,21 @@
   </div>
 
   <div class="menu-group active" id="breakfast">
-    <div class="menu-row"><div><div class="name">Pancakes</div><div class="desc">Served warm with syrup</div></div><div class="price">$7.00</div></div>
-    <div class="menu-row"><div><div class="name">Bread Rolls</div><div class="desc">Fresh baked, served warm — choose your quantity</div></div><div class="price">$3.00</div></div>
-    <div class="menu-row"><div><div class="name">Donuts</div><div class="desc">Fresh daily — chocolate or pink frosted</div></div><div class="price">$2.50</div></div>
+    <div class="menu-row"><div><div class="name">Pancake</div><div class="desc">Served warm with syrup</div></div><div class="price">$4.00</div></div>
+    <div class="menu-row"><div><div class="name">Pancakes (2)</div><div class="desc">Served warm with syrup</div></div><div class="price">$7.00</div></div>
+    <div class="menu-row"><div><div class="name">Bread Roll</div><div class="desc">Fresh baked, served warm</div></div><div class="price">$2.00</div></div>
+    <div class="menu-row"><div><div class="name">Bread Rolls (4)</div><div class="desc">Fresh baked, served warm</div></div><div class="price">$3.00</div></div>
+    <div class="menu-row"><div><div class="name">Chocolate Donut</div><div class="desc">Fresh daily</div></div><div class="price">$2.00</div></div>
+    <div class="menu-row"><div><div class="name">Chocolate Donuts (6)</div><div class="desc">Fresh daily</div></div><div class="price">$12.00</div></div>
+    <div class="menu-row"><div><div class="name">Vanilla Donut</div><div class="desc">Fresh daily</div></div><div class="price">$2.00</div></div>
+    <div class="menu-row"><div><div class="name">Vanilla Donuts (6)</div><div class="desc">Fresh daily</div></div><div class="price">$12.00</div></div>
   </div>
 
   <div class="menu-group" id="lunch">
-    <div class="menu-row"><div><div class="name">Homemade Pepperoni Rolls</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$4.00</div></div>
-    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza</div><div class="desc">Individual 5-inch thick-crust, cheese or pepperoni</div></div><div class="price">$7.00</div></div>
+    <div class="menu-row"><div><div class="name">Dad's Legendary Pepperoni Roll</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$4.00</div></div>
+    <div class="menu-row"><div><div class="name">Dad's Legendary Pepperoni Rolls (2)</div><div class="desc">Baked fresh on-site, a West Virginia classic</div></div><div class="price">$4.00</div></div>
+    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza — Cheese</div><div class="desc">Individual 5-inch thick-crust</div></div><div class="price">$6.00</div></div>
+    <div class="menu-row"><div><div class="name">Deep Dish Personal Pizza — Pepperoni</div><div class="desc">Individual 5-inch thick-crust</div></div><div class="price">$7.00</div></div>
     <div class="menu-row"><div><div class="name">Assorted Chips</div><div class="desc">Single-serve bags</div></div><div class="price">$1.50</div></div>
   </div>
 
